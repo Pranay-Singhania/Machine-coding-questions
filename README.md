@@ -6,7 +6,7 @@
 
 ## Problem Statement:
 
-There are 7 boxes in the above given format.
-There are 2 major requirements:
-(1) when someone clicks on the box, its color should change to green.
+There are 7 boxes in the above given format.<br>
+There are 2 major requirements:<br>
+(1) when someone clicks on the box, its color should change to green.<br>
 (2) once someone has clicked on all the boxes and changed their colors, the color should revert back to their default colors based on the order in which they were clicked on.
