@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/matrix-sequence-problem/static/css/main.41e20e65.css",
+    "main.js": "/matrix-sequence-problem/static/js/main.8fe44736.js",
+    "index.html": "/matrix-sequence-problem/index.html",
+    "main.41e20e65.css.map": "/matrix-sequence-problem/static/css/main.41e20e65.css.map",
+    "main.8fe44736.js.map": "/matrix-sequence-problem/static/js/main.8fe44736.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.41e20e65.css",
+    "static/js/main.8fe44736.js"
+  ]
+}
